@@ -3,7 +3,7 @@
 ##Context
 
 The [Role Strategy Plugin allows](https://wiki.jenkins-ci.org/display/JENKINS/Role+Strategy+Plugin) to Jenkins Adminsitrator to handle users' 
-permissions with a role based mecahism.
+permissions with a role based mechanism.
 
 The plugin's UI was not initial design to support a large set of users/roles. As 
 detailled in the Jenkins Jira Ticket [JENKINS-8075](https://issues.jenkins-ci.org/browse/JENKINS-8075), the role assignation can be quickly a nightmare.
